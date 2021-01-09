@@ -1,5 +1,11 @@
 function trans_full = trans_prob(rangeID,FreqRange)
 numS = length(FreqRange); 
+
+Training_data_dir = '..\..\datasets\Training_data\';
+Extra_TrainingData_dir =  '..\..\datasets\Extra_TrainingData\';
+TestData_dir = '..\..\datasets\TestData\';
+TrueBPM_dir = '..\..\datasets\TrueBPM\';
+
 IDData = {'DATA_01_TYPE01','DATA_02_TYPE02','DATA_03_TYPE02','DATA_04_TYPE02',...
     'DATA_05_TYPE02','DATA_06_TYPE02','DATA_07_TYPE02','DATA_08_TYPE02','DATA_09_TYPE02',...
     'DATA_10_TYPE02','DATA_11_TYPE02','DATA_12_TYPE02','DATA_S04_T01',...
@@ -10,10 +16,12 @@ IDData = {'DATA_01_TYPE01','DATA_02_TYPE02','DATA_03_TYPE02','DATA_04_TYPE02',..
 
 trans_full = zeros(numS,numS);
 for idnb=rangeID
-    if idnb>13
-        load(['Data/True' IDData{idnb}(5:end)]);           % load groundtruth
+    if idnb<= 12
+        load([Training_data_dir IDData{idnb} '_BPMtrace']);           % load groundtruth
+    elseif idnb == 13
+        load([Extra_TrainingData_dir 'BPM_S04_T01.mat']);           % load groundtruth
     else
-        load(['Data/' IDData{idnb} '_BPMtrace']);          % load groundtruth
+        load([TrueBPM_dir 'True' IDData{idnb}(5:end)]);           % load groundtruth
     end
     %fullBPM0 = [ fullBPM0 BPM0' ];
     

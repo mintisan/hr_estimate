@@ -5,6 +5,11 @@
 
 clear; %close all;
 
+Training_data_dir = '..\..\datasets\Training_data\';
+Extra_TrainingData_dir =  '..\..\datasets\Extra_TrainingData\';
+TestData_dir = '..\..\datasets\TestData\';
+TrueBPM_dir = '..\..\datasets\TrueBPM\';
+
 % Dataset IDs
 IDData = {'DATA_01_TYPE01','DATA_02_TYPE02','DATA_03_TYPE02','DATA_04_TYPE02',...
     'DATA_05_TYPE02','DATA_06_TYPE02','DATA_07_TYPE02','DATA_08_TYPE02','DATA_09_TYPE02',...
@@ -38,7 +43,13 @@ step     = 2 * srate;  % step size is 2 seconds
 for idnb = 1 : allD
     
     % load the data
-    load(['Data/' IDData{idnb}]);
+    if idnb <= 12
+        load([Training_data_dir IDData{idnb}]);
+    elseif idnb == 13
+        load([Extra_TrainingData_dir IDData{idnb}]);
+    else
+        load([TestData_dir IDData{idnb}]);
+    end
     if idnb>13
         ch1 = 1; ch2 = 2; ch3 = 3; ch4 = 4; ch5 = 5;
     else
@@ -184,10 +195,12 @@ for idnb = 1 : allD
     end
     
     % comparison with the ground truth
-    if idnb>13
-        load(['Data/True' IDData{idnb}(5:end)]);           % load groundtruth
+    if idnb<= 12
+        load([Training_data_dir IDData{idnb} '_BPMtrace']);           % load groundtruth
+    elseif idnb == 13
+        load([Extra_TrainingData_dir 'BPM_S04_T01.mat']);           % load groundtruth
     else
-        load(['Data/' IDData{idnb} '_BPMtrace']);           % load groundtruth
+        load([TrueBPM_dir 'True' IDData{idnb}(5:end)]);           % load groundtruth
     end
     
      trans_full = trans_prob(setdiff(1:23,idnb),FreqRange); %figure; imagesc(FreqRange(end:-1:1)*60,FreqRange(end:-1:1)*60,log(trans_full)); set(gca,'YDir','normal');
@@ -208,4 +221,5 @@ for idnb = 1 : allD
     
 end
 fprintf('\nErr12=%2.2f(%2.2f), Err11=%2.2f(%2.2f), ErrAll=%2.2f(%2.2f)', mean(myErrorN(1:12)),mean(myErrorStd(1:12)),mean(myErrorN(13:end)),mean(myErrorStd(13:end)),mean(myErrorN),mean(myErrorStd));
+fprintf('\n');
 
