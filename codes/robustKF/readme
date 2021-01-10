@@ -1,0 +1,40 @@
+File: 	  readme
+Date:	  January 8, 2008
+Author:   Jo-Anne Ting
+
+Data files:
+
+Qoff.data         : Matlab data file consisting of orientation
+                    data from LittleDog, in quarternion form
+
+Matlab source code:
+
+run_kf_test.m     : Test file to run the various Kalman filters on
+                    Qoff.data
+
+kf_prop.m         : Implements the propagation step of the Kalman filter
+kf_update.m       : Implements the update step of the Kalman filter
+
+hackedwKF_learn.m : Implements the "hacked" weighted Kalman filter,
+                    as described in Ting et al., 2007
+
+wrKF_learn.m      : Implements the weighted outlier-robust Kalman
+                    filter
+
+kf_update_learn.m : Implements the update step of the Kalman filter
+                    except it performs an additional thresholding
+                    step to check if the Mahalanobis distance of
+                    the current data sample exceeds the theshold
+                    (if it does, the data sample is considered an
+                    outlier and no update is done). Additionally,
+                    the system dynamics are learnt using a
+                    maximum-likelihood framework.
+
+Comments:
+
+Run run_kf_test.m to compare all Kalman filters on the data. 
+The indicator variables can be toggled on or off, depending on
+which filters the user wants to run.
+
+Please refer to the technical report by Ting, Theodorou & Schaal (2007)
+(TR-CLMC-2007-1) for more details.

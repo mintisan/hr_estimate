@@ -13,7 +13,7 @@
 - [A time-frequency domain approach of heart rate estimation from photoplethysmographic (PPG) signal](https://github.com/tariqul-islam/Photoplethysmographic-Signals) | [LMS]
 - [Heart Rate Tracking using Wrist-Type Photoplethysmographic (PPG) Signals during Physical Exercise with Simultaneous Accelerometry](http://ee.sharif.edu/~imat/) | [Iterative Method with Adaptive Thresholding (IMAT) ]
 - [Robust Filtering of Time Series with Trends](https://cran.r-project.org/web/packages/robfilter/) | []
-- [Learning an Outlier-Robust Kalman Filter](http://jting.net/) | [WRKF/EM]
+- [Learning an Outlier-Robust Kalman Filter](http://jting.net/) | [WRKF/EM/robustKF]
 
 ## Just Papers
 - [TROIKA: A General Framework for Heart Rate Monitoring Using Wrist-Type Photoplethysmographic Signals During Intensive Physical Exercise]() | [SSA]
