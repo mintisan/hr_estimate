@@ -19,3 +19,4 @@
 - [Robust Heart Rate Estimation using Wrist-based PPG Signals in the Presence of Intense Physical Activities]() | [Backward Shortest Path Search(BSPS)]
 - [A Novel Time-Varying Spectral Filtering Algorithm for Reconstruction of Motion Artifact Corrupted Heart Rate Signals During Intense Physical Activities Using a Wearable Photoplethysmogram Sensor]() | [Spectral filter algorithm for Motion Artifacts and heart rate reconstruction (SpaMA)]
 - [Photoplethysmographic Time-Domain Heart Rate Measurement Algorithm for Resource-Constrained Wearable Devices and its Implementation]() | [AMPD]
+- [Online Clustering of Processes](http://www.lancs.ac.uk/~khaleghi/) | [Online Clustering]
