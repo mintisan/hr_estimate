@@ -9,6 +9,7 @@
 
 ## Paper with code
 - [Accurate Wearable Heart Rate Monitoring During Physical Exercises Using PPG](https://github.com/andtem2000/PPG) | [Wiener Filter, Phase Vocoder and Viterbi Decoding]
+- [PPG-based heart rate estimation using Wiener filter, phase vocoder and Viterbi decoding](https://ieeexplore.ieee.org/document/7952309)
 - [Measuring Heart Rate During Physical Exercise by Subspace Decomposition and Kalman Smoothing](https://github.com/AlessandraGalli/PPG) |  [Kalman Filter]
 - [A time-frequency domain approach of heart rate estimation from photoplethysmographic (PPG) signal](https://github.com/tariqul-islam/Photoplethysmographic-Signals) | [LMS]
 - [Heart Rate Tracking using Wrist-Type Photoplethysmographic (PPG) Signals during Physical Exercise with Simultaneous Accelerometry](http://ee.sharif.edu/~imat/) | [Iterative Method with Adaptive Thresholding (IMAT) ]
@@ -25,3 +26,4 @@
 - [A Bayesian Framework for Robust Kalman Filtering Under Uncertain Noise Statistics](https://profiles.stanford.edu/roozbeh-dehghannasiri) | []
 - [Removal of Motion Artifacts in Photoplethysmograph Sensors during Intensive Exercise for Accurate Heart Rate Calculation Based on Frequency Estimation and Notch Filtering](https://www.mdpi.com/1424-8220/19/15/3312) | []
 - [Finite State Machine Framework for Instantaneous Heart Rate Validation Using Wearable Photoplethysmography During Intensive Exercise](https://pubmed.ncbi.nlm.nih.gov/30235152/) | [FSM/CF]
+- [PREHEAT: Precision heart rate monitoring from intense motion artifact corrupted PPG signals using constrained RLS and wavelets](https://www.researchgate.net/publication/318299477_PREHEAT_Precision_heart_rate_monitoring_from_intense_motion_artifact_corrupted_PPG_signals_using_constrained_RLS_and_wavelets) | [cRLS/EEMD/AR/Wavelets]
