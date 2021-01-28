@@ -28,3 +28,10 @@
 - [Finite State Machine Framework for Instantaneous Heart Rate Validation Using Wearable Photoplethysmography During Intensive Exercise](https://pubmed.ncbi.nlm.nih.gov/30235152/) | [FSM/CF]
 - [PREHEAT: Precision heart rate monitoring from intense motion artifact corrupted PPG signals using constrained RLS and wavelets](https://www.researchgate.net/publication/318299477_PREHEAT_Precision_heart_rate_monitoring_from_intense_motion_artifact_corrupted_PPG_signals_using_constrained_RLS_and_wavelets) | [cRLS/EEMD/AR/Wavelets]
 - [Real-Time Robust Heart Rate Estimation From Wrist-Type PPG Signals Using Multiple Reference Adaptive Noise Cancellation](https://ieeexplore.ieee.org/document/7755741) | [RLS]
+
+## Relative Papers
+- [Adaptive Multi-Trace Carving for Robust Frequency Tracking in Forensic Applications](https://arxiv.org/pdf/2005.06686) | 
+### Pitch Tracking
+- [A Robust Algorithm for Pitch Tracking (RAPT)](https://www.ee.columbia.edu/~dpwe/papers/Talkin95-rapt.pdf) | 
+- [A spectral/temporal method for robust fundamental frequency tracking](http://bingweb.binghamton.edu/~hhu1/paper/JASA2008Hu.pdf) |
+- [Robust Bayesian Pitch Tracking Based on the Harmonic Model](https://vbn.aau.dk/en/publications/robust-bayesian-pitch-tracking-based-on-the-harmonic-model) | 
