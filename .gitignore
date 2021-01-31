@@ -53,3 +53,5 @@ dkms.conf
 
 *.asv
 codes/andtem2000/*mat
+*.jpg
+*.csv
