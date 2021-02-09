@@ -38,3 +38,7 @@
 - [Robust Bayesian Pitch Tracking Based on the Harmonic Model](https://vbn.aau.dk/en/publications/robust-bayesian-pitch-tracking-based-on-the-harmonic-model) | 
 ### Filter
 - [An optimal filter for short photoplethysmogram signals](https://www.nature.com/articles/sdata201876) | digital filter
+
+
+## Books
+- [Robust Statistics for Signal Processing](https://www.amazon.cn/dp/B07GNLS6D5)
