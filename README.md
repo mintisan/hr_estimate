@@ -28,6 +28,7 @@
 - [Finite State Machine Framework for Instantaneous Heart Rate Validation Using Wearable Photoplethysmography During Intensive Exercise](https://pubmed.ncbi.nlm.nih.gov/30235152/) | [FSM/CF]
 - [PREHEAT: Precision heart rate monitoring from intense motion artifact corrupted PPG signals using constrained RLS and wavelets](https://www.researchgate.net/publication/318299477_PREHEAT_Precision_heart_rate_monitoring_from_intense_motion_artifact_corrupted_PPG_signals_using_constrained_RLS_and_wavelets) | [cRLS/EEMD/AR/Wavelets]
 - [Real-Time Robust Heart Rate Estimation From Wrist-Type PPG Signals Using Multiple Reference Adaptive Noise Cancellation](https://ieeexplore.ieee.org/document/7755741) | [RLS]
+- [A Robust Heart Rate Monitoring Scheme Using Photoplethysmographic Signals Corrupted by Intense Motion Artifacts](https://ieeexplore.ieee.org/document/7185350) | [EEMD/RLS/Portion Extracting]
 
 ## Relative Papers
 - [Adaptive Multi-Trace Carving for Robust Frequency Tracking in Forensic Applications](https://arxiv.org/pdf/2005.06686) | 
