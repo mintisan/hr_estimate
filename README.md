@@ -36,3 +36,5 @@
 - [A Robust Algorithm for Pitch Tracking (RAPT)](https://www.ee.columbia.edu/~dpwe/papers/Talkin95-rapt.pdf) | 
 - [A spectral/temporal method for robust fundamental frequency tracking](http://bingweb.binghamton.edu/~hhu1/paper/JASA2008Hu.pdf) |
 - [Robust Bayesian Pitch Tracking Based on the Harmonic Model](https://vbn.aau.dk/en/publications/robust-bayesian-pitch-tracking-based-on-the-harmonic-model) | 
+### Filter
+- [An optimal filter for short photoplethysmogram signals](https://www.nature.com/articles/sdata201876) | digital filter
