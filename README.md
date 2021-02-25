@@ -40,6 +40,8 @@
 ### Filter
 - [An optimal filter for short photoplethysmogram signals](https://www.nature.com/articles/sdata201876) | digital filter
 
+## Patents
+- [ US20180110469 - Heart rate path optimizer](https://patents.google.com/patent/EP2987453A1/und)
 
 ## Books
 - [Robust Statistics for Signal Processing](https://www.amazon.cn/dp/B07GNLS6D5) : [code](https://github.com/RobustSP/toolbox)
