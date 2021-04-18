@@ -18,7 +18,7 @@
 - [HeartBEAT: Heart Beat Estimation through Adaptive Tracking](https://github.com/olivesgatech/HeartBEAT) | [RLS]
 
 ## Just Papers
-- [Heart rate tracking in photoplethysmography signals affected by motion artifacts: a review][https://link.springer.com/content/pdf/10.1186/s13634-020-00714-2.pdf] | [Review]
+- [Heart rate tracking in photoplethysmography signals affected by motion artifacts: a review](https://link.springer.com/content/pdf/10.1186/s13634-020-00714-2.pdf) | [Review]
 - [TROIKA: A General Framework for Heart Rate Monitoring Using Wrist-Type Photoplethysmographic Signals During Intensive Physical Exercise]() | [SSA]
 - [PARHELIA: Particle Filter-Based Heart Rate Estimation From Photoplethysmographic Signals During Physical Exercise](https://pubmed.ncbi.nlm.nih.gov/28459679/) | [Particle Filter]
 - [Particle Filtering and Sensor Fusion for Robust Heart Rate Monitoring using Wearable Sensors](http://jafari.tamu.edu/wp-content/uploads/2019/06/FINAL-VERSION_ParticleFilter.pdf) | [Partilce Filter]
