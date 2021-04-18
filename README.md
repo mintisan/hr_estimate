@@ -22,6 +22,7 @@
 - [TROIKA: A General Framework for Heart Rate Monitoring Using Wrist-Type Photoplethysmographic Signals During Intensive Physical Exercise]() | [SSA]
 - [PARHELIA: Particle Filter-Based Heart Rate Estimation From Photoplethysmographic Signals During Physical Exercise](https://pubmed.ncbi.nlm.nih.gov/28459679/) | [Particle Filter]
 - [Particle Filtering and Sensor Fusion for Robust Heart Rate Monitoring using Wearable Sensors](http://jafari.tamu.edu/wp-content/uploads/2019/06/FINAL-VERSION_ParticleFilter.pdf) | [Partilce Filter]
+- [Combining Adaptive Filter and Phase Vocoder for Heart Rate Monitoring Using Photoplethysmography During Physical Exercise](https://ieeexplore.ieee.org/document/8512925) | [Phase Vocoder]
 - [Robust real-time PPG-based heart rate monitoring](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2015/papers/1570105041.pdf) | [Particle Filter | Viterbi]
 - [Robust Heart Rate Estimation using Wrist-based PPG Signals in the Presence of Intense Physical Activities]() | [Backward Shortest Path Search(BSPS)]
 - [A Novel Time-Varying Spectral Filtering Algorithm for Reconstruction of Motion Artifact Corrupted Heart Rate Signals During Intense Physical Activities Using a Wearable Photoplethysmogram Sensor]() | [Spectral filter algorithm for Motion Artifacts and heart rate reconstruction (SpaMA)]
