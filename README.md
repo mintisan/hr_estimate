@@ -16,6 +16,7 @@
 - [Robust Filtering of Time Series with Trends](https://cran.r-project.org/web/packages/robfilter/) | []
 - [Learning an Outlier-Robust Kalman Filter](http://jting.net/) | [WRKF/EM/robustKF]
 - [HeartBEAT: Heart Beat Estimation through Adaptive Tracking](https://github.com/olivesgatech/HeartBEAT) | [RLS]
+- [HEAL-T: An Efficient PPG based Heart-Rate and IBI Estimation During Physical Exercise](https://github.com/meiyor/HEAL-T-AN-EFFICIENT-PPG-BASED-HEART-RATE-AND-IBI-ESTIMATION-METHOD-DURING-PHYSICAL-EXERCISE) | [fast-ICA][RLS][BHW filter]
 
 ## Just Papers
 - [Heart rate tracking in photoplethysmography signals affected by motion artifacts: a review](https://link.springer.com/content/pdf/10.1186/s13634-020-00714-2.pdf) | [Review]
