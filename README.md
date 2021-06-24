@@ -39,11 +39,13 @@
 - [A Novel Adaptive Spectrum Noise Cancellation Approach for Enhancing Heartbeat Rate Monitoring in a Wearable Device](https://ieeexplore.ieee.org/abstract/document/7450361) | [spectral overlapped]
 - [A Robust Motion Artifact Detection Algorithm for Accurate Detection of Heart Rates From Photoplethysmographic Signals Using Time–Frequency Spectral Features](https://ieeexplore.ieee.org/document/7605499) | [CDM | MNAs | TifMA]
 - [Two-Stage Approach for Detection and Reduction of Motion Artifacts in Photoplethysmographic Data](https://ieeexplore.ieee.org/document/5415601) | []
+- [Heart Rate Tracking Using a Wearable Photoplethysmographic Sensor During Treadmill Exercise](https://ieeexplore.ieee.org/document/8873559) | [VFCDM]
 ## Relative Papers
 - [Adaptive Multi-Trace Carving for Robust Frequency Tracking in Forensic Applications](https://arxiv.org/pdf/2005.06686) | 
 - [An Efficient Algorithm for Automatic Peak Detection in Noisy Periodic and Quasi-Periodic Signals](https://www.mdpi.com/1999-4893/5/4/588) | [code](https://github.com/xmhbbovru/ampd) | [AMPD]
 - [Adaptive threshold method for the peak detection of photoplethysmographic waveform](https://pubmed.ncbi.nlm.nih.gov/19883905/)
 - [An Efficient and Automatic Systolic Peak Detection Algorithm for Photoplethysmographic Signals](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.680.3533&rep=rep1&type=pdf)
+- [A High Resolution Approach to Estimating Time-Frequency Spectra and Their Amplitudes](https://pubmed.ncbi.nlm.nih.gov/16463086/) | [VFCDM]
 ### Pitch Tracking
 - [A Robust Algorithm for Pitch Tracking (RAPT)](https://www.ee.columbia.edu/~dpwe/papers/Talkin95-rapt.pdf) | 
 - [A spectral/temporal method for robust fundamental frequency tracking](http://bingweb.binghamton.edu/~hhu1/paper/JASA2008Hu.pdf) |
