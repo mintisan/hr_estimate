@@ -36,8 +36,9 @@
 - [Real-Time Robust Heart Rate Estimation From Wrist-Type PPG Signals Using Multiple Reference Adaptive Noise Cancellation](https://ieeexplore.ieee.org/document/7755741) | [RLS]
 - [A Robust Heart Rate Monitoring Scheme Using Photoplethysmographic Signals Corrupted by Intense Motion Artifacts](https://ieeexplore.ieee.org/document/7185350) | [EEMD/RLS/Portion Extracting]
 - [Photoplethysmographic Time-Domain Heart Rate Measurement Algorithm for Resource-Constrained Wearable Devices and its Implementation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7146569/) | [AMPD]
-- [A Novel Adaptive Spectrum Noise Cancellation Approach for Enhancing Heartbeat Rate Monitoring in a Wearable Device](https://ieeexplore.ieee.org/abstract/document/7450361) | [同频]
+- [A Novel Adaptive Spectrum Noise Cancellation Approach for Enhancing Heartbeat Rate Monitoring in a Wearable Device](https://ieeexplore.ieee.org/abstract/document/7450361) | [spectral overlapped]
 - [A Robust Motion Artifact Detection Algorithm for Accurate Detection of Heart Rates From Photoplethysmographic Signals Using Time–Frequency Spectral Features](https://ieeexplore.ieee.org/document/7605499) | [CDM | MNAs | TifMA]
+- [Two-Stage Approach for Detection and Reduction of Motion Artifacts in Photoplethysmographic Data](https://ieeexplore.ieee.org/document/5415601) | []
 ## Relative Papers
 - [Adaptive Multi-Trace Carving for Robust Frequency Tracking in Forensic Applications](https://arxiv.org/pdf/2005.06686) | 
 - [An Efficient Algorithm for Automatic Peak Detection in Noisy Periodic and Quasi-Periodic Signals](https://www.mdpi.com/1999-4893/5/4/588) | [code](https://github.com/xmhbbovru/ampd) | [AMPD]
