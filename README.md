@@ -37,7 +37,7 @@
 - [A Robust Heart Rate Monitoring Scheme Using Photoplethysmographic Signals Corrupted by Intense Motion Artifacts](https://ieeexplore.ieee.org/document/7185350) | [EEMD/RLS/Portion Extracting]
 - [Photoplethysmographic Time-Domain Heart Rate Measurement Algorithm for Resource-Constrained Wearable Devices and its Implementation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7146569/) | [AMPD]
 - [A Novel Adaptive Spectrum Noise Cancellation Approach for Enhancing Heartbeat Rate Monitoring in a Wearable Device](https://ieeexplore.ieee.org/abstract/document/7450361) | [spectral overlapped]
-- [A Robust Motion Artifact Detection Algorithm for Accurate Detection of Heart Rates From Photoplethysmographic Signals Using Time–Frequency Spectral Features](https://ieeexplore.ieee.org/document/7605499) | [CDM | MNAs | TifMA | VFCDM | SVM] | [VFCDM Video Final](https://www.youtube.com/watch?v=1mkBeDTWED4)
+- [A Robust Motion Artifact Detection Algorithm for Accurate Detection of Heart Rates From Photoplethysmographic Signals Using Time–Frequency Spectral Features](https://ieeexplore.ieee.org/document/7605499) | [CDM | MNAs | TifMA | VFCDM | SVM] | [VFCDM Video Final](https://www.youtube.com/watch?v=1mkBeDTWED4) | [Homepage](https://scholar.google.com/citations?user=Yota3lUAAAAJ&hl=en)
 - [Two-Stage Approach for Detection and Reduction of Motion Artifacts in Photoplethysmographic Data](https://ieeexplore.ieee.org/document/5415601) | []
 - [Heart Rate Tracking Using a Wearable Photoplethysmographic Sensor During Treadmill Exercise](https://ieeexplore.ieee.org/document/8873559) | [VFCDM]
 ## Relative Papers
