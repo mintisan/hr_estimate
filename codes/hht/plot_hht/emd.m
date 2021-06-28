@@ -1,5 +1,7 @@
 % https://www.cnblogs.com/hdu-zsk/p/4799470.html
 % https://zhuanlan.zhihu.com/p/150706759
+% https://blog.csdn.net/edogawachia/article/details/79366444
+% https://blog.csdn.net/weixin_38909544/article/details/79007709  [nice]
 %主函数
 function imf = emd(x)
 % Empiricial Mode Decomposition (Hilbert-Huang Transform)
