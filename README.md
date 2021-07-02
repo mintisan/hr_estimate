@@ -43,6 +43,7 @@
 ## Relative Papers
 - [Adaptive Multi-Trace Carving for Robust Frequency Tracking in Forensic Applications](https://arxiv.org/pdf/2005.06686) | 
 - [An Efficient Algorithm for Automatic Peak Detection in Noisy Periodic and Quasi-Periodic Signals](https://www.mdpi.com/1999-4893/5/4/588) | [code](https://github.com/xmhbbovru/ampd) | [AMPD]
+- [Auto-threshold peak detection in physiological signals](https://ieeexplore.ieee.org/document/1017206) | [ATPD]
 - [Adaptive threshold method for the peak detection of photoplethysmographic waveform](https://pubmed.ncbi.nlm.nih.gov/19883905/)
 - [An Efficient and Automatic Systolic Peak Detection Algorithm for Photoplethysmographic Signals](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.680.3533&rep=rep1&type=pdf)
 - [A High Resolution Approach to Estimating Time-Frequency Spectra and Their Amplitudes](https://pubmed.ncbi.nlm.nih.gov/16463086/) | [VFCDM]
