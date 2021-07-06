@@ -56,6 +56,10 @@
 
 ## Patents
 - [ US20180110469 - Heart rate path optimizer](https://patents.google.com/patent/EP2987453A1/und)
+- [US20160051158A1 - Harmonic template classifier](https://patents.google.com/patent/US20160051158A1/en?oq=US20160051158)
+- [US20200359919A1- Motion Artifact Removal by Time Domain Projection](https://patents.google.com/patent/US20200359919A1/en?q=MOTION+ARTIFACT+REMOVAL+BY+TIME+DOMAIN+PROJECTION&oq=MOTION+ARTIFACT+REMOVAL+BY+TIME+DOMAIN+PROJECTION)
+- [US20160051157A1 - Frequency domain projection algorithm](https://patents.google.com/patent/US20160051157A1/en)
+
 
 ## Books
 - [Robust Statistics for Signal Processing](https://www.amazon.cn/dp/B07GNLS6D5) : [code](https://github.com/RobustSP/toolbox)
