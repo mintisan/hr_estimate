@@ -55,6 +55,7 @@
 - [Robust Bayesian Pitch Tracking Based on the Harmonic Model](https://vbn.aau.dk/en/publications/robust-bayesian-pitch-tracking-based-on-the-harmonic-model) | 
 ### Filter
 - [An optimal filter for short photoplethysmogram signals](https://www.nature.com/articles/sdata201876) | digital filter
+### Decomposition
 - 【Empirical mode decomposition】
 	- [Improved complete ensemble EMD: A suitable tool for biomedical signal processing]()
 - 【Nonlinear mode decomposition】
