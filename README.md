@@ -59,8 +59,11 @@
 - 【Empirical mode decomposition】
 	- [Improved complete ensemble EMD: A suitable tool for biomedical signal processing]()
 - 【Nonlinear mode decomposition】
-	- [Nonlinear mode decomposition: A noise-robust, adaptive decomposition method]()
-	- [Linear and synchrosqueezed time-frequency representations revisited: Overview, standards of use, resolution, reconstruction, concentration, and algorithms]()
+	- [Nonlinear mode decomposition: A noise-robust, adaptive decomposition method](http://www.physics.lancs.ac.uk/research/nbmphysics/diats/nmd/)
+	- [Linear and synchrosqueezed time-frequency representations revisited: Overview, standards of use, resolution, reconstruction, concentration, and algorithms](http://www.physics.lancs.ac.uk/research/nbmphysics/diats/tfr/)
+	- [Linear and synchrosqueezed time-frequency representations revisited. Part I: Overview, standards of use, related issues and algorithms](https://arxiv.org/abs/1310.7215)
+	- [Linear and synchrosqueezed time-frequency representations revisited. Part II: Resolution, reconstruction and concentration](https://arxiv.org/abs/1310.7274)
+	- [On the extraction of instantaneous frequencies from ridges in time-frequency representations of signals](https://arxiv.org/abs/1310.7276)
 	- [Detecting the harmonics of oscillations with time-variable frequencies]()
 	- [Nonlinear mode decomposition: a new algorithm of interest for the biomedical field?]()
 	- [Remote Photoplethysmography Using Nonlinear Mode Decomposition]()
