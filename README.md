@@ -20,6 +20,7 @@
 
 ## Just Papers
 - [Heart rate tracking in photoplethysmography signals affected by motion artifacts: a review](https://link.springer.com/content/pdf/10.1186/s13634-020-00714-2.pdf) | [Review]
+- [Heart Rate Estimation From Wrist-Worn Photoplethysmography: A Review](https://ieeexplore.ieee.org/document/8703846) | [Review]
 - [TROIKA: A General Framework for Heart Rate Monitoring Using Wrist-Type Photoplethysmographic Signals During Intensive Physical Exercise]() | [SSA]
 - [PARHELIA: Particle Filter-Based Heart Rate Estimation From Photoplethysmographic Signals During Physical Exercise](https://pubmed.ncbi.nlm.nih.gov/28459679/) | [Particle Filter]
 - [Particle Filtering and Sensor Fusion for Robust Heart Rate Monitoring using Wearable Sensors](http://jafari.tamu.edu/wp-content/uploads/2019/06/FINAL-VERSION_ParticleFilter.pdf) | [Partilce Filter]
@@ -43,7 +44,8 @@
 ## Relative Papers
 - [Adaptive Multi-Trace Carving for Robust Frequency Tracking in Forensic Applications](https://arxiv.org/pdf/2005.06686) | 
 - [An Efficient Algorithm for Automatic Peak Detection in Noisy Periodic and Quasi-Periodic Signals](https://www.mdpi.com/1999-4893/5/4/588) | [code](https://github.com/xmhbbovru/ampd) | [AMPD]
-- [Adaptive threshold method for the peak detection of photoplethysmographic waveform](https://pubmed.ncbi.nlm.nih.gov/19883905/)
+- [Auto-threshold peak detection in physiological signals](https://ieeexplore.ieee.org/document/1017206) | [ATPD]
+- [Adaptive threshold method for the peak detection of photoplethysmographic waveform](https://pubmed.ncbi.nlm.nih.gov/19883905/) | [ATPD]
 - [An Efficient and Automatic Systolic Peak Detection Algorithm for Photoplethysmographic Signals](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.680.3533&rep=rep1&type=pdf)
 - [A High Resolution Approach to Estimating Time-Frequency Spectra and Their Amplitudes](https://pubmed.ncbi.nlm.nih.gov/16463086/) | [VFCDM]
 ### Pitch Tracking
@@ -55,6 +57,11 @@
 
 ## Patents
 - [ US20180110469 - Heart rate path optimizer](https://patents.google.com/patent/EP2987453A1/und)
+- [US20160051158A1 - Harmonic template classifier](https://patents.google.com/patent/US20160051158A1/en?oq=US20160051158)
+- [US20200359919A1- Motion Artifact Removal by Time Domain Projection](https://patents.google.com/patent/US20200359919A1/en?q=MOTION+ARTIFACT+REMOVAL+BY+TIME+DOMAIN+PROJECTION&oq=MOTION+ARTIFACT+REMOVAL+BY+TIME+DOMAIN+PROJECTION)
+- [US20160051157A1 - Frequency domain projection algorithm](https://patents.google.com/patent/US20160051157A1/en)
+
 
 ## Books
+- [Nonlinear Signal Processing - A Statistical Approach](http://nguyen.hong.hai.free.fr/EBOOKS/SCIENCE%20AND%20ENGINEERING/MECANIQUE/NON%20LINEAIRE/NonLin.pdf)
 - [Robust Statistics for Signal Processing](https://www.amazon.cn/dp/B07GNLS6D5) : [code](https://github.com/RobustSP/toolbox)
