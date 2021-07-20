@@ -6,6 +6,7 @@
 
 - [IEEE Signal Processing Cup 2015](https://sites.google.com/site/researchbyzhang/ieeespcup2015)
 - [PPG-DaLiA Data Set](https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA)
+- [Pulse Rate Detection Dataset - PURE](https://www.tu-ilmenau.de/neurob/data-sets-code/pulse-rate-detection-dataset-pure)
 
 ## Paper with code
 - [Accurate Wearable Heart Rate Monitoring During Physical Exercises Using PPG](https://github.com/andtem2000/PPG) | [Wiener Filter, Phase Vocoder and Viterbi Decoding]
@@ -54,6 +55,14 @@
 - [Robust Bayesian Pitch Tracking Based on the Harmonic Model](https://vbn.aau.dk/en/publications/robust-bayesian-pitch-tracking-based-on-the-harmonic-model) | 
 ### Filter
 - [An optimal filter for short photoplethysmogram signals](https://www.nature.com/articles/sdata201876) | digital filter
+- 【Empirical mode decomposition】
+	- [Improved complete ensemble EMD: A suitable tool for biomedical signal processing]()
+- 【Nonlinear mode decomposition】
+	- [Nonlinear mode decomposition: A noise-robust, adaptive decomposition method]()
+	- [Linear and synchrosqueezed time-frequency representations revisited: Overview, standards of use, resolution, reconstruction, concentration, and algorithms]()
+	- [Detecting the harmonics of oscillations with time-variable frequencies]()
+	- [Nonlinear mode decomposition: a new algorithm of interest for the biomedical field?]()
+	- [Remote Photoplethysmography Using Nonlinear Mode Decomposition]()
 
 ## Patents
 - [ US20180110469 - Heart rate path optimizer](https://patents.google.com/patent/EP2987453A1/und)
