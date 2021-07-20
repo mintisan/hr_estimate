@@ -63,4 +63,5 @@
 
 
 ## Books
+- [Nonlinear Signal Processing - A Statistical Approach](http://nguyen.hong.hai.free.fr/EBOOKS/SCIENCE%20AND%20ENGINEERING/MECANIQUE/NON%20LINEAIRE/NonLin.pdf)
 - [Robust Statistics for Signal Processing](https://www.amazon.cn/dp/B07GNLS6D5) : [code](https://github.com/RobustSP/toolbox)
