@@ -67,6 +67,8 @@
 	- [Detecting the harmonics of oscillations with time-variable frequencies]()
 	- [Nonlinear mode decomposition: a new algorithm of interest for the biomedical field?]()
 	- [Remote Photoplethysmography Using Nonlinear Mode Decomposition]()
+## Deep Learning
+- [Deep Learning for Heart Rate Estimation From Reflectance Photoplethysmography With Acceleration Power Spectrum and Acceleration Intensity](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9042276)
 
 ## Patents
 - [ US20180110469 - Heart rate path optimizer](https://patents.google.com/patent/EP2987453A1/und)
