@@ -55,3 +55,10 @@ dkms.conf
 codes/andtem2000/*mat
 *.jpg
 *.csv
+
+
+*.pt
+*.png
+
+*.idea
+*__pycache__*

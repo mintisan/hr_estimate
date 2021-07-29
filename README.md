@@ -68,6 +68,7 @@
 	- [Nonlinear mode decomposition: a new algorithm of interest for the biomedical field?]()
 	- [Remote Photoplethysmography Using Nonlinear Mode Decomposition]()
 ## Deep Learning
+- [Feasibility Study of Deep Neural Network for Heart Rate Estimation from Wearable Photoplethysmography and Acceleration Signals](https://ieeexplore.ieee.org/document/8857618)
 - [Deep Learning for Heart Rate Estimation From Reflectance Photoplethysmography With Acceleration Power Spectrum and Acceleration Intensity](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9042276)
 
 ## Patents
