@@ -5,6 +5,7 @@
 ## Datasets
 
 - [IEEE Signal Processing Cup 2015](https://sites.google.com/site/researchbyzhang/ieeespcup2015)
+- [BAMI data](https://github.com/HeewonChung92/GaussianFSM)
 - [PPG-DaLiA Data Set](https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA)
 - [Pulse Rate Detection Dataset - PURE](https://www.tu-ilmenau.de/neurob/data-sets-code/pulse-rate-detection-dataset-pure)
 
