@@ -13,6 +13,7 @@
 - [PPG-based heart rate estimation using Wiener filter, phase vocoder and Viterbi decoding](https://ieeexplore.ieee.org/document/7952309)
 - [Measuring Heart Rate During Physical Exercise by Subspace Decomposition and Kalman Smoothing](https://github.com/AlessandraGalli/PPG) |  [Kalman Filter]
 - [A time-frequency domain approach of heart rate estimation from photoplethysmographic (PPG) signal](https://github.com/tariqul-islam/Photoplethysmographic-Signals) | [LMS]
+- [Cascade and Parallel Combination (CPC) of Adaptive Filters for Estimating Heart Rate During Intensive Physical Exercise from Photoplethysmographic Signal](https://github.com/tariqul-islam/Photoplethysmographic-Signals)
 - [SPECMAR: Fast Heart Rate Estimation from PPG Signal using a Modified Spectral Subtraction Scheme with Composite Motion Artifacts Reference Generation](https://github.com/tariqul-islam/Photoplethysmographic-Signals)
 - [Heart Rate Tracking using Wrist-Type Photoplethysmographic (PPG) Signals during Physical Exercise with Simultaneous Accelerometry](http://ee.sharif.edu/~imat/) | [Iterative Method with Adaptive Thresholding (IMAT) ]
 - [Robust Filtering of Time Series with Trends](https://cran.r-project.org/web/packages/robfilter/) | []
