@@ -87,3 +87,12 @@
 - [Nonlinear Signal Processing - A Statistical Approach](http://nguyen.hong.hai.free.fr/EBOOKS/SCIENCE%20AND%20ENGINEERING/MECANIQUE/NON%20LINEAIRE/NonLin.pdf)
 - [Robust Statistics for Signal Processing](https://www.amazon.cn/dp/B07GNLS6D5) : [code](https://github.com/RobustSP/toolbox)
 - [An Introduction to Sequential Monte Carlo by Nicolas Chopin](https://github.com/nchopin/particles)
+
+## Tutorial
+- [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+- [Recurrent Neural Networks (RNNs) Implementing an RNN from scratch in Python](https://towardsdatascience.com/recurrent-neural-networks-rnns-3f06d7653a85)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [RNN vs GRU vs LSTM](https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573)
+- [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+- [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
