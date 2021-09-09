@@ -90,6 +90,7 @@
 
 ## Tutorial
 - [三次简化一张图：一招理解LSTM/GRU门控机制](https://zhuanlan.zhihu.com/p/28297161)
+- [LSTM神经网络输入输出究竟是怎样的？](https://www.zhihu.com/question/41949741/answer/318771336)
 - [LSTM细节分析理解（pytorch版）](https://zhuanlan.zhihu.com/p/79064602)
 - [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 - [Recurrent Neural Networks (RNNs) Implementing an RNN from scratch in Python](https://towardsdatascience.com/recurrent-neural-networks-rnns-3f06d7653a85)
