@@ -76,6 +76,34 @@
 - [Feasibility Study of Deep Neural Network for Heart Rate Estimation from Wearable Photoplethysmography and Acceleration Signals](https://ieeexplore.ieee.org/document/8857618)
 - [Deep Learning for Heart Rate Estimation From Reflectance Photoplethysmography With Acceleration Power Spectrum and Acceleration Intensity](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9042276)
 
+### CNN
+- [An Introduction to Convolutional Neural Networks](https://arxiv.org/abs/1511.08458)
+- [CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization](https://arxiv.org/pdf/2004.15004.pdf)
+- [What Do We Understand About Convolutional Networks?](https://arxiv.org/pdf/1803.08834.pdf)
+
+### RNN/LSTM/GRU
+- [三次简化一张图：一招理解LSTM/GRU门控机制](https://zhuanlan.zhihu.com/p/28297161)
+- [LSTM神经网络输入输出究竟是怎样的？](https://www.zhihu.com/question/41949741/answer/318771336)
+- [LSTM细节分析理解（pytorch版）](https://zhuanlan.zhihu.com/p/79064602)
+- [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+- [Recurrent Neural Networks (RNNs) Implementing an RNN from scratch in Python](https://towardsdatascience.com/recurrent-neural-networks-rnns-3f06d7653a85)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [RNN vs GRU vs LSTM](https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573)
+- [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+- [Illustrated Guide to Recurrent Neural Networks](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
+- [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
+
+
+### Attention/Transformer
+- [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)
+- [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+- [Illustrated Guide to Transformers- Step by Step Explanation](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [What is a Transformer?](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
+
+
 ### SE_Nets
 - [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
 - [Squeeze-and-Excitation Networks](https://towardsdatascience.com/squeeze-and-excitation-networks-9ef5e71eacd7)
@@ -94,15 +122,3 @@
 - [Robust Statistics for Signal Processing](https://www.amazon.cn/dp/B07GNLS6D5) : [code](https://github.com/RobustSP/toolbox)
 - [An Introduction to Sequential Monte Carlo by Nicolas Chopin](https://github.com/nchopin/particles)
 
-## Tutorial
-- [三次简化一张图：一招理解LSTM/GRU门控机制](https://zhuanlan.zhihu.com/p/28297161)
-- [LSTM神经网络输入输出究竟是怎样的？](https://www.zhihu.com/question/41949741/answer/318771336)
-- [LSTM细节分析理解（pytorch版）](https://zhuanlan.zhihu.com/p/79064602)
-- [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
-- [Recurrent Neural Networks (RNNs) Implementing an RNN from scratch in Python](https://towardsdatascience.com/recurrent-neural-networks-rnns-3f06d7653a85)
-- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [RNN vs GRU vs LSTM](https://medium.com/analytics-vidhya/rnn-vs-gru-vs-lstm-863b0b7b1573)
-- [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
-- [Illustrated Guide to Recurrent Neural Networks](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
-- [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
