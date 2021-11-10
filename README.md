@@ -110,6 +110,12 @@
 - [Understanding and visualizing SE-Nets](https://towardsdatascience.com/understanding-and-visualizing-se-nets-1544aff0fc68)
 - [Squeeze and Excitation Networks Explained with PyTorch Implementation](https://amaarora.github.io/2020/07/24/SeNet.html)
 
+### Classical Models
+
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+
+
 ## Patents
 - [ US20180110469 - Heart rate path optimizer](https://patents.google.com/patent/EP2987453A1/und)
 - [US20160051158A1 - Harmonic template classifier](https://patents.google.com/patent/US20160051158A1/en?oq=US20160051158)
