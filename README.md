@@ -76,6 +76,12 @@
 - [Feasibility Study of Deep Neural Network for Heart Rate Estimation from Wearable Photoplethysmography and Acceleration Signals](https://ieeexplore.ieee.org/document/8857618)
 - [Deep Learning for Heart Rate Estimation From Reflectance Photoplethysmography With Acceleration Power Spectrum and Acceleration Intensity](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9042276)
 
+### SE_Nets
+- [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
+- [Squeeze-and-Excitation Networks](https://towardsdatascience.com/squeeze-and-excitation-networks-9ef5e71eacd7)
+- [Understanding and visualizing SE-Nets](https://towardsdatascience.com/understanding-and-visualizing-se-nets-1544aff0fc68)
+- [Squeeze and Excitation Networks Explained with PyTorch Implementation](https://amaarora.github.io/2020/07/24/SeNet.html)
+
 ## Patents
 - [ US20180110469 - Heart rate path optimizer](https://patents.google.com/patent/EP2987453A1/und)
 - [US20160051158A1 - Harmonic template classifier](https://patents.google.com/patent/US20160051158A1/en?oq=US20160051158)
