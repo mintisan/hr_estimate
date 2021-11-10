@@ -110,6 +110,11 @@
 - [Understanding and visualizing SE-Nets](https://towardsdatascience.com/understanding-and-visualizing-se-nets-1544aff0fc68)
 - [Squeeze and Excitation Networks Explained with PyTorch Implementation](https://amaarora.github.io/2020/07/24/SeNet.html)
 
+### Batch Normalization
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+- [Batch normalization in 3 levels of understanding](https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338)
+- [Why is Batch Normalization useful in Deep Neural Networks?](https://towardsdatascience.com/batch-normalisation-in-deep-neural-network-ce65dd9e8dbf)
+
 ### Classical Models
 
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
