@@ -1,14 +1,5 @@
 # HR Estimate
 
-
-
-## Datasets
-
-- [IEEE Signal Processing Cup 2015](https://sites.google.com/site/researchbyzhang/ieeespcup2015)
-- [BAMI data](https://github.com/HeewonChung92/GaussianFSM)
-- [PPG-DaLiA Data Set](https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA)
-- [Pulse Rate Detection Dataset - PURE](https://www.tu-ilmenau.de/neurob/data-sets-code/pulse-rate-detection-dataset-pure)
-
 ## Paper with code
 - [Accurate Wearable Heart Rate Monitoring During Physical Exercises Using PPG](https://github.com/andtem2000/PPG) | [Wiener Filter, Phase Vocoder and Viterbi Decoding]
 - [PPG-based heart rate estimation using Wiener filter, phase vocoder and Viterbi decoding](https://ieeexplore.ieee.org/document/7952309)
@@ -134,3 +125,16 @@
 - [Robust Statistics for Signal Processing](https://www.amazon.cn/dp/B07GNLS6D5) : [code](https://github.com/RobustSP/toolbox)
 - [An Introduction to Sequential Monte Carlo by Nicolas Chopin](https://github.com/nchopin/particles)
 
+## Datasets
+
+### HR(Heart Rate)
+
+- [IEEE Signal Processing Cup 2015](https://sites.google.com/site/researchbyzhang/ieeespcup2015)
+- [BAMI data](https://github.com/HeewonChung92/GaussianFSM)
+- [PPG-DaLiA Data Set](https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA)
+- [Pulse Rate Detection Dataset - PURE](https://www.tu-ilmenau.de/neurob/data-sets-code/pulse-rate-detection-dataset-pure)
+
+### HAR(Human Activity Recognition)
+- [Human Activity Recognition Using Smartphones Data Set](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
+- [WISDM Smartphone and Smartwatch Activity and Biometrics Dataset Data Set](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)
+- [A Public Domain Dataset For Real-life Human Activity Recognition Using Smartphone Sensors](https://lbd.udc.es/research/real-life-HAR-dataset/)
