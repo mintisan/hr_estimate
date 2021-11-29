@@ -120,6 +120,7 @@
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
 ## Patents
 - [ US20180110469 - Heart rate path optimizer](https://patents.google.com/patent/EP2987453A1/und)
