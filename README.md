@@ -137,6 +137,7 @@
 ### HAR(Human Activity Recognition)
 - [Human Activity Recognition Using Smartphones Data Set](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
 - [WISDM Smartphone and Smartwatch Activity and Biometrics Dataset Data Set](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)
+- [WISDM: WIreless Sensor Data Mining](https://www.cis.fordham.edu/wisdm/dataset.php)
 - [A Public Domain Dataset For Real-life Human Activity Recognition Using Smartphone Sensors](https://lbd.udc.es/research/real-life-HAR-dataset/)
 - [Activity Recognition from Single Chest-Mounted Accelerometer Data Set](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer)
 - [Human Activity Recognition using Physiological Data from Wearables](https://bigdata.duke.edu/projects/human-activity-recognition-using-physiological-data-wearables) : https://github.com/DigitalBiomarkerDiscoveryPipeline/Human-Activity-Recognition
