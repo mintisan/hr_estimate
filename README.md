@@ -139,6 +139,7 @@
 - [WISDM Smartphone and Smartwatch Activity and Biometrics Dataset Data Set](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)
 - [A Public Domain Dataset For Real-life Human Activity Recognition Using Smartphone Sensors](https://lbd.udc.es/research/real-life-HAR-dataset/)
 - [Activity Recognition from Single Chest-Mounted Accelerometer Data Set](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer)
+- [Human Activity Recognition using Physiological Data from Wearables](https://bigdata.duke.edu/projects/human-activity-recognition-using-physiological-data-wearables)
 
 ### BP(Blood Pressure)
 - [Cuff-Less Blood Pressure Estimation Data Set](https://archive.ics.uci.edu/ml/datasets/Cuff-Less+Blood+Pressure+Estimation)
