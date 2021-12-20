@@ -147,4 +147,4 @@
 
 ## Data Augmentation
 
-- [Data Augmentation of Wearable Sensor Data for Parkinson's Disease Monitoring using Convolutional Neural Networks](https://arxiv.org/pdf/1706.00527v2.pdf) : [code](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data)
+- [2017- Data Augmentation of Wearable Sensor Data for Parkinson's Disease Monitoring using Convolutional Neural Networks:269](https://arxiv.org/pdf/1706.00527v2.pdf) : [code](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data)
