@@ -148,3 +148,4 @@
 ## Data Augmentation
 
 - [2017- Data Augmentation of Wearable Sensor Data for Parkinson's Disease Monitoring using Convolutional Neural Networks:269](https://arxiv.org/pdf/1706.00527v2.pdf) : [code](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data)
+- [2021-An Empirical Survey of Data Augmentation for Time Series Classification with Neural Networks-41](https://arxiv.org/pdf/2007.15951.pdf) | [code](https://github.com/uchidalab/time_series_augmentation)
