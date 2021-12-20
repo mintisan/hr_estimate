@@ -144,3 +144,7 @@
 
 ### BP(Blood Pressure)
 - [Cuff-Less Blood Pressure Estimation Data Set](https://archive.ics.uci.edu/ml/datasets/Cuff-Less+Blood+Pressure+Estimation)
+
+## Data Augmentation
+
+- [Data Augmentation of Wearable Sensor Data for Parkinson's Disease Monitoring using Convolutional Neural Networks](https://arxiv.org/pdf/1706.00527v2.pdf) : [code](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data)
