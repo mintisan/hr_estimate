@@ -147,5 +147,9 @@
 
 ## Data Augmentation
 
-- [2017- Data Augmentation of Wearable Sensor Data for Parkinson's Disease Monitoring using Convolutional Neural Networks:269](https://arxiv.org/pdf/1706.00527v2.pdf) : [code](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data)
+- [2017- Data Augmentation of Wearable Sensor Data for Parkinson's Disease Monitoring using Convolutional Neural Networks-269](https://arxiv.org/pdf/1706.00527v2.pdf) : [code](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data)
+- [2018-T-CGAN: Conditional Generative Adversarial Network for Data Augmentation in Noisy Time Series with Irregular Sampling-37](https://arxiv.org/pdf/1811.08295.pdf) | [code](https://github.com/gioramponi/GAN_Time_Series)
+- [2018-Data augmentation using synthetic data for time series classification with deep residual networks-78](https://arxiv.org/pdf/1808.02455.pdf) | [code](https://github.com/hfawaz/aaltd18)
+- [2019-Deep learning for time series classification:review-1076](https://arxiv.org/pdf/1809.04356.pdf) | [code](https://github.com/hfawaz/dl-4-tsc)
+- [2020-Time Series Data Augmentation for Neural Networks by Time Warping with a Discriminative Teacher-8](https://arxiv.org/pdf/2004.08780v1.pdf) | [code](https://github.com/uchidalab/time_series_augmentation)
 - [2021-An Empirical Survey of Data Augmentation for Time Series Classification with Neural Networks-41](https://arxiv.org/pdf/2007.15951.pdf) | [code](https://github.com/uchidalab/time_series_augmentation)
