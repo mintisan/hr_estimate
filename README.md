@@ -125,6 +125,12 @@
 - [Robust Statistics for Signal Processing](https://www.amazon.cn/dp/B07GNLS6D5) : [code](https://github.com/RobustSP/toolbox)
 - [An Introduction to Sequential Monte Carlo by Nicolas Chopin](https://github.com/nchopin/particles)
 
+## Feature engineering workflow
+
+- [tsfresh](https://github.com/blue-yonder/tsfresh) : Time Series Feature extraction based on scalable hypothesis tests
+- [TSFEL](https://github.com/fraunhoferportugal/tsfel) : Time Series Feature Extraction Library
+- [Merlion](https://github.com/salesforce/Merlion) : A Machine Learning Library for Time Series
+
 ## Datasets
 
 ### HR(Heart Rate)
