@@ -13,6 +13,7 @@
 - [HeartBEAT: Heart Beat Estimation through Adaptive Tracking](https://github.com/olivesgatech/HeartBEAT) | [RLS]
 - [HEAL-T: An Efficient PPG based Heart-Rate and IBI Estimation During Physical Exercise](https://github.com/meiyor/HEAL-T-AN-EFFICIENT-PPG-BASED-HEART-RATE-AND-IBI-ESTIMATION-METHOD-DURING-PHYSICAL-EXERCISE) | [fast-ICA][RLS][BHW filter]
 - [Online Heart Rate Prediction using Acceleration from a Wrist Worn Wearable](https://github.com/rymc/PPAW) | [Active Learning]
+- [CNNs for Heart Rate Estimation and Human Activity Recognition in Wrist Worn Sensing Applications](https://github.com/Brophy-E/CNNs_HAR_and_HR)
 
 ## Just Papers
 - [Heart rate tracking in photoplethysmography signals affected by motion artifacts: a review](https://link.springer.com/content/pdf/10.1186/s13634-020-00714-2.pdf) | [Review]
